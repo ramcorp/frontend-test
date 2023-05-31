@@ -28,7 +28,7 @@ To accomplish this, the application will need to support the following operation
 
 - This challenge doens't require you to implement 100% of the features but everything you do will be reviewed to check your skills
 - Unit test is required.
-- Ideally write in Typescript with Next.js, but you can use any framework you want.
+- Ideally write in Typescript with Next.js, but you can use any library you want.
 - You can use any libraries you want.
 - Write a minimal README.md with instructions on how to run your project.
 
