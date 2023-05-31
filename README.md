@@ -32,6 +32,10 @@ To accomplish this, the application will need to support the following operation
 - You can use any libraries you want.
 - Write a minimal README.md with instructions on how to run your project.
 
+## Prototype
+
+In case you need some reference for the design you can use the one provided by our designer ([link](https://www.figma.com/proto/jTsALUkhTBgAbFjcTgBZXi/Survival-Nexus-Test?page-id=0%3A1&type=design&node-id=1-1390&viewport=749%2C616%2C0.58&scaling=min-zoom&starting-point-node-id=1%3A1390))
+
 ## Resources
 
 ### Survivor
